@@ -100,4 +100,4 @@ _A preencher após a execução com os dados da competição._
 ## Autores
 
 - Cauê
-- _Nome do colega_
+- Rafael
